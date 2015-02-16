@@ -6,12 +6,7 @@ public class Problem1 {
 	public static void main(String[] args) {
 		
 
-		/*1.	Print Fibonacci sequence;
-		2.	Print name and address
-		3.	Print odd or even number;
-		4.	Print prime numbers
-		5.	Print Temperature Conversion from (F to C)
-*/	
+		
 		
 
 		
